@@ -1,0 +1,80 @@
+
+body{
+    overflow: hidden;
+    background-color: #C9E183;
+}
+
+.container{
+    max-width: 1000px; 
+    height: 0;
+    position: relative;
+  }
+
+.mainPage{
+    position: relative;
+    left:0;
+    right:0; 
+    z-index: 1;
+}
+
+.iconOne{
+    position: absolute;
+    top: 100px;
+    left: 500px;
+    max-width: 150px;
+    max-height: 150px;
+    z-index: 2;
+
+}
+
+.iconTwo{
+    position: absolute;
+    top: 100px;
+    left: 660px;
+    max-width: 150px;
+    max-height: 100px;
+    z-index: 2;
+
+}
+
+.iconThree{
+    position: absolute;
+    top: 100px;
+    left: 780px;
+    max-width: 150px;
+    max-height: 100px;
+    z-index: 2;
+
+
+}
+
+.iconFour{
+    position: absolute;
+    top: 200px;
+    left: 515px;
+    max-width: 200px;
+    max-height: 150px;
+    z-index: 2;
+
+}
+
+.iconFive{
+    position: absolute;
+    top: 200px;
+    left: 640px;
+    max-width: 200px;
+    max-height: 150px;
+    z-index: 2;
+
+}
+
+.iconSix{
+    position: absolute;
+    top: 225px;
+    left: 750px;
+    max-width: 150px;
+    max-height: 150px;
+    z-index: 2;
+
+}
+
